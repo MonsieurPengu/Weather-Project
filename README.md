@@ -4,5 +4,5 @@ This can get us started on weather API for the project.
 
 ToDoList is an example Kotlin app. 
 
-go to /ToDoList/app/src/main/java/com/example/todolist/
+go to /ToDoList/app/src/main/java/com/example/todolist/  in the folder "ToDoList"
 to get the code that would ever need to be edited.
