@@ -6,3 +6,5 @@ ToDoList is an example Kotlin app.
 
 go to /ToDoList/app/src/main/java/com/example/todolist/  in the folder "ToDoList"
 to get the code that would ever need to be edited.
+
+new to do list uploaded Dec. 4 at 15:11 CST uwu
