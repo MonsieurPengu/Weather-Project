@@ -15,9 +15,9 @@ App Checklist:
 
     Get Key for API(done)
   
-    Make Layout for potential components of app (basically front-end design but without coding anything yet)(not done)
+    Make Layout for potential components of app (basically front-end design but without coding anything yet)(done-ish)
   
-    Import and test API to make sure we can get data out of it (not done)
+    Import and test API to make sure we can get data out of it (done)
   
     Make front-end look pretty(not done)
   
