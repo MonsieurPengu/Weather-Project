@@ -19,7 +19,7 @@ App Checklist:
   
     Import and test API to make sure we can get data out of it (done)
   
-    Make front-end look pretty(not done)
+    Make front-end look pretty(done)
   
     Set up back end(not done)
  
