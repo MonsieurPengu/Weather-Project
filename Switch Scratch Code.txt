@@ -11,7 +11,7 @@ export default function App() {
             <Switch
                 value={isSwitchEnabled}
                 onValueChange={(value) => setSwitch(value)}
-                trackColor={{true: 'red'}}
+                trackColor={{true: 'blue'}}
             />
         </View>
     );
