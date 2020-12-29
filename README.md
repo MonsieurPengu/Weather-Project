@@ -11,6 +11,8 @@ new to do list uploaded Dec. 4 at 15:11 CST uwu
 
 pog pogares poggen poggerschamp
 
+C AND F SWITCH HELP SOURCES:= https://www.youtube.com/watch?v=vy6fZMoR92s and https://www.youtube.com/watch?v=ad9f-EYtWPo&t=66s
+
 App Checklist:
 
     Get Key for API(done)
