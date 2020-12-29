@@ -23,6 +23,8 @@ App Checklist:
   
     Make front-end look pretty(done)
   
+    Make Dank Mode(not done)
+    
     Set up back end(not done)
  
     Add notification features(not done)
