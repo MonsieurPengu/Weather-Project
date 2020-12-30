@@ -11,7 +11,8 @@ new to do list uploaded Dec. 4 at 15:11 CST uwu
 
 pog pogares poggen poggerschamp
 ========================================================================
-C AND F SWITCH HELP SOURCES:= https://www.youtube.com/watch?v=vy6fZMoR92s and https://www.youtube.com/watch?v=ad9f-EYtWPo&t=66s
+Notes: first link is for vanilla iOS-style switch, second link is React day/night, third link is React-Native day/night.
+C AND F SWITCH HELP SOURCES:= https://www.youtube.com/watch?v=vy6fZMoR92s and https://www.youtube.com/watch?v=ad9f-EYtWPo&t=66s and https://www.youtube.com/watch?v=km1qm1Zz2lY
 ========================================================================
 App Checklist:
 
