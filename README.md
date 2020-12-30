@@ -1,17 +1,22 @@
+=====================================================================================================================================
 https://www.youtube.com/watch?v=lcWfSn6-m_8
 
 This can get us started on weather API for the project.
+=====================================================================================================================================
 
 ToDoList is an example Kotlin app. 
 
 go to /ToDoList/app/src/main/java/com/example/todolist/  in the folder "ToDoList"
 to get the code that would ever need to be edited.
+=====================================================================================================================================
 
 new to do list uploaded Dec. 4 at 15:11 CST uwu
 
 pog pogares poggen poggerschamp
+=====================================================================================================================================
 
 C AND F SWITCH HELP SOURCES:= https://www.youtube.com/watch?v=vy6fZMoR92s and https://www.youtube.com/watch?v=ad9f-EYtWPo&t=66s
+=====================================================================================================================================
 
 App Checklist:
 
@@ -38,5 +43,4 @@ App Checklist:
     Testing(not done)
 
     Become Pog(not done)
-  
-  
+  =====================================================================================================================================  
