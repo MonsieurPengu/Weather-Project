@@ -15,6 +15,10 @@ Notes: first link is for vanilla iOS-style switch, second link is React day/nigh
 
 C AND F SWITCH HELP SOURCES:= https://www.youtube.com/watch?v=vy6fZMoR92s and https://www.youtube.com/watch?v=ad9f-EYtWPo&t=66s and https://www.youtube.com/watch?v=km1qm1Zz2lY
 ========================================================================
+https://github.com/3stbn/react-native-chat-firebase
+
+this is firebase practice master code
+========================================================================
 App Checklist:
 
     Get Key for API(done)
